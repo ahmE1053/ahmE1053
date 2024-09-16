@@ -10,7 +10,6 @@ Skills:
 - UI/UX design: Ability to implement UI designs in Flutter with animations and custom shapes.
 - Algorithms and data structures: Knowledge of basic algorithms and data structure.
 - Self-learning: Strong ability to learn new technologies and tools independently.
-- English proficiency: Strong reading and writing skills, with the ability to effectively communicate and engage in conversation. While my spoken English is not perfect due to my accent, I am able to communicate and collaborate effectively in a professional setting.
 
 If you're interested in working together, feel free to reach out to me at 01091692686 or ahmsh1053@gmail.com.
 
